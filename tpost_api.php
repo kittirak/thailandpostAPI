@@ -19,7 +19,7 @@ curl_setopt_array($curl, array(
   CURLOPT_SSL_VERIFYPEER => FALSE,
   CURLOPT_HTTPHEADER => array(
     "Content-Type: application/json",
-    "Authorization: Token GrUzVuLQB8PLC+OYQ/VXUxMcF4CkPUGAZ&FEDmJRAKI0FuMLNpL3KJKdTpP_JeCOY!SWH%NnR%MOJKC#ZUCNK=TKKMLrZTSdSTSw",
+    "Authorization: Token [your-token]",
   ),
 ));
 
