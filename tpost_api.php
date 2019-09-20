@@ -5,7 +5,7 @@ $data = '{
    "status": "all",
    "language": "TH",
    "barcode": [
-       "EI217050620TH"
+       "ED836460133TH"
   ]
 }';
 
